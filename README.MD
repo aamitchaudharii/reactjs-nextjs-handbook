@@ -5,7 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Stars](https://img.shields.io/github/stars/your-org/react-nextjs-engineering-handbook?style=social)](https://github.com/your-org/react-nextjs-engineering-handbook)
+[![Stars](https://img.shields.io/github/stars/aamitchaudharii/react-nextjs-engineering-handbook?style=social)](https://github.com/aamitchaudharii/reactjs-nextjs-handbook)
 
 ---
 
